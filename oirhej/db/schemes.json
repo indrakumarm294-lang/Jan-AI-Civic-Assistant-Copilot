@@ -1,0 +1,163 @@
+[
+  {
+    "name": "PM Kisan",
+    "category": "farmer",
+    "description": "farmers income support agriculture subsidy",
+    "details": "Provides ₹6000 per year to eligible farmers in three installments.",
+    "eligibility": "Small and marginal farmers with cultivable land."
+  },
+  {
+    "name": "PM Fasal Bima Yojana",
+    "category": "farmer",
+    "description": "crop insurance farmers loss protection",
+    "details": "Provides insurance coverage for crop failure.",
+    "eligibility": "All farmers growing notified crops."
+  },
+  {
+    "name": "Soil Health Card Scheme",
+    "category": "farmer",
+    "description": "soil testing agriculture improvement",
+    "details": "Provides soil health cards with recommendations.",
+    "eligibility": "All farmers."
+  },
+  {
+    "name": "Ayushman Bharat",
+    "category": "health",
+    "description": "health insurance hospital free treatment",
+    "details": "Provides health coverage up to ₹5 lakh per family per year.",
+    "eligibility": "Economically weaker families."
+  },
+  {
+    "name": "Janani Suraksha Yojana",
+    "category": "health",
+    "description": "pregnancy maternity women health",
+    "details": "Provides cash incentives for safe delivery.",
+    "eligibility": "Pregnant women from low-income families."
+  },
+  {
+    "name": "PM Jan Dhan Yojana",
+    "category": "finance",
+    "description": "bank account zero balance financial inclusion",
+    "details": "Provides zero balance bank accounts with insurance.",
+    "eligibility": "Any Indian citizen without a bank account."
+  },
+  {
+    "name": "Atal Pension Yojana",
+    "category": "finance",
+    "description": "pension retirement scheme workers",
+    "details": "Provides guaranteed pension after retirement.",
+    "eligibility": "Unorganized sector workers aged 18–40."
+  },
+  {
+    "name": "PM Mudra Yojana",
+    "category": "business",
+    "description": "business loan small enterprise startup",
+    "details": "Provides loans up to ₹10 lakh.",
+    "eligibility": "Small business owners and entrepreneurs."
+  },
+  {
+    "name": "Stand-Up India Scheme",
+    "category": "business",
+    "description": "startup loan women sc st entrepreneurship",
+    "details": "Provides loans between ₹10 lakh and ₹1 crore.",
+    "eligibility": "SC/ST and women entrepreneurs."
+  },
+  {
+    "name": "Skill India Mission",
+    "category": "jobs",
+    "description": "skill development training jobs youth",
+    "details": "Provides vocational training programs.",
+    "eligibility": "Youth seeking skill development."
+  },
+  {
+    "name": "PM Awas Yojana",
+    "category": "housing",
+    "description": "housing affordable home subsidy",
+    "details": "Provides affordable housing with subsidies.",
+    "eligibility": "Low-income families."
+  },
+  {
+    "name": "Swachh Bharat Mission",
+    "category": "sanitation",
+    "description": "sanitation toilet cleanliness hygiene",
+    "details": "Promotes cleanliness and toilet construction.",
+    "eligibility": "All citizens."
+  },
+  {
+    "name": "Ujjwala Yojana",
+    "category": "women",
+    "description": "free gas connection lpg women",
+    "details": "Provides free LPG connections.",
+    "eligibility": "Women from BPL households."
+  },
+  {
+    "name": "Digital India",
+    "category": "technology",
+    "description": "internet digital services online governance",
+    "details": "Provides digital infrastructure and services.",
+    "eligibility": "All citizens."
+  },
+  {
+    "name": "Startup India",
+    "category": "business",
+    "description": "startup funding innovation entrepreneurship",
+    "details": "Supports startups with funding and tax benefits.",
+    "eligibility": "Registered startups."
+  },
+  {
+    "name": "Make in India",
+    "category": "industry",
+    "description": "manufacturing industry investment jobs",
+    "details": "Encourages manufacturing in India.",
+    "eligibility": "Businesses and manufacturers."
+  },
+  {
+    "name": "National Education Policy",
+    "category": "education",
+    "description": "education reform schools colleges learning",
+    "details": "Improves education system structure.",
+    "eligibility": "Students and educational institutions."
+  },
+  {
+    "name": "Mid-Day Meal Scheme",
+    "category": "student",
+    "description": "school food children nutrition",
+    "details": "Provides free meals to school children.",
+    "eligibility": "Government school students."
+  },
+  {
+    "name": "Beti Bachao Beti Padhao",
+    "category": "women",
+    "description": "girl child education women empowerment",
+    "details": "Promotes girl child education.",
+    "eligibility": "Girls and women."
+  },
+  {
+    "name": "PM SVANidhi",
+    "category": "business",
+    "description": "street vendors loan small business",
+    "details": "Provides loans up to ₹10,000.",
+    "eligibility": "Street vendors."
+  },
+  {
+    "name": "National Scholarship Scheme",
+    "category": "student",
+    "description": "students scholarship education financial help",
+    "details": "Provides financial assistance to students.",
+    "eligibility": "Students from low-income families."
+  },
+  {
+    "name": "PM Kaushal Vikas Yojana",
+    "category": "jobs",
+    "description": "skill training jobs employment youth",
+    "details": "Provides skill training and certification.",
+    "eligibility": "Youth seeking employment."
+  },
+  {
+    "name": "MGNREGA",
+    "category": "jobs",
+    "description": "rural jobs employment guarantee work",
+    "details": "Provides 100 days of guaranteed work.",
+    "eligibility": "Rural households."
+  }
+]
